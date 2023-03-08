@@ -11,7 +11,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -19,8 +18,8 @@ This is my nft-preview-card design. Created with HTML and CSS.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/TeekayJnr/NFT-Preview-Card-Component)
+- Live Site URL: [Add live site URL here](https://teekayjnr.github.io/NFT-Preview-Card-Component/)
 
 ## My process
 
