@@ -18,8 +18,8 @@ This is my nft-preview-card design. Created with HTML and CSS.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/TeekayJnr/NFT-Preview-Card-Component)
-- Live Site URL: [Add live site URL here](https://teekayjnr.github.io/NFT-Preview-Card-Component/)
+- Solution URL: [https://github.com/TeekayJnr/NFT-Preview-Card-Component]
+- Live Site URL: [https://teekayjnr.github.io/NFT-Preview-Card-Component/]
 
 ## My process
 
