@@ -1,0 +1,105 @@
+* {
+  padding: 0;
+  margin: 0;
+  color: hsl(0, 0%, 100%);
+  font-family: Outfit;
+}
+
+body {
+  background-color: hsl(217, 54%, 11%);
+}
+
+main {
+  width: 100%;
+  min-height: 97vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  width: 16.5em;
+  border: none;
+  background-color: hsl(216, 50%, 16%);
+  display: flex;
+  flex-direction: column;
+  padding: 1.5em;
+  border-radius: 10px;
+}
+
+.container__image {
+  width: 100%;
+  margin-bottom: 1em;
+}
+
+.container__image img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.container__description h1 {
+  font-weight: 600;
+  font-size: 1.2em;
+  margin-bottom: 0.7em;
+}
+
+.container__description p {
+  font-weight: 300;
+  color: hsl(215, 51%, 70%);
+  line-height: 1.3;
+}
+
+div .detail {
+  margin-bottom: 1em;
+}
+
+.container__description__value {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid hsl(215, 32%, 27%);
+  font-size: 0.9em;
+  margin-bottom: 1em;
+  padding-bottom: 1.5em;
+}
+
+div .price,
+.duration {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+div .price img,
+.duration img {
+  margin-right: 0.5em;
+  align-items: center;
+  justify-content: center;
+}
+
+div .price p {
+  color: hsl(178, 100%, 50%);
+  font-weight: 600;
+}
+
+.container__author {
+  display: flex;
+  align-items: center;
+}
+
+.container__author img {
+  width: 2em;
+  border: 1px solid hsl(0, 0%, 100%);
+  border-radius: 50%;
+  margin-right: 1em;
+}
+
+.container__author p {
+  font-size: 0.9em;
+}
+
+.container__author span {
+  color: hsl(215, 51%, 70%);
+}
